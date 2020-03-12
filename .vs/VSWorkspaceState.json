@@ -3,7 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\dishdetail",
     "\\src\\app\\menu",
+    "\\src\\app\\services",
     "\\src\\app\\shared"
   ],
   "SelectedNode": "\\src\\app\\menu\\menu.component.ts",
