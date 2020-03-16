@@ -3,9 +3,14 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\app-routing",
-    "\\src\\app\\shared"
+    "\\src\\app\\about",
+    "\\src\\app\\dishdetail",
+    "\\src\\app\\footer",
+    "\\src\\app\\header",
+    "\\src\\app\\home",
+    "\\src\\app\\menu",
+    "\\src\\app\\services"
   ],
-  "SelectedNode": "\\src\\app\\app.component.html",
+  "SelectedNode": "\\src\\app\\home\\home.component.html",
   "PreviewInSolutionExplorer": false
 }
