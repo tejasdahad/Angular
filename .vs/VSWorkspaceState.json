@@ -5,12 +5,11 @@
     "\\src\\app",
     "\\src\\app\\about",
     "\\src\\app\\dishdetail",
-    "\\src\\app\\footer",
-    "\\src\\app\\header",
     "\\src\\app\\home",
     "\\src\\app\\menu",
-    "\\src\\app\\services"
+    "\\src\\app\\services",
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\home\\home.component.html",
+  "SelectedNode": "\\src\\app\\services\\promotion.service.ts",
   "PreviewInSolutionExplorer": false
 }
